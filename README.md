@@ -18,14 +18,14 @@
 
 <div style="display: flex;">
   <img src="https://github.com/YagizTopaldemir/WeatherWise/assets/159691508/dad70b97-774b-4b41-a208-f52af13dd0c1" width="300" height="650" alt="">
-  <img src="https://github.com/YagizTopaldemir/WeatherWise/assets/159691508/7adc087a-8d16-428f-b711-ed13e3a9abf3" width="300" height="650" alt="">
+  <img src="https://github.com/YagizTopaldemir/WeatherWise/assets/159691508/0a72f3ec-1352-4ba8-86fe-96c89808e975" width="300" height="650" alt="">
 
 </div>
 
 
 <div style="display: flex;">
-  <img src="https://github.com/YagizTopaldemir/WeatherWise/assets/159691508/0a72f3ec-1352-4ba8-86fe-96c89808e975" width="300" height="650" alt="">
- 
+  <img src=" https://github.com/YagizTopaldemir/WeatherWise/assets/159691508/7adc087a-8d16-428f-b711-ed13e3a9abf3" width="300" height="650" alt="">
+
 </div>
 
 
