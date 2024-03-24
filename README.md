@@ -24,7 +24,7 @@
 
 
 <div style="display: flex;">
-  <img src=" https://github.com/YagizTopaldemir/WeatherWise/assets/159691508/7adc087a-8d16-428f-b711-ed13e3a9abf3" width="300" height="650" alt="">
+  <img src="https://github.com/YagizTopaldemir/WeatherWise/assets/159691508/7adc087a-8d16-428f-b711-ed13e3a9abf3" width="300" height="650" alt="">
 
 </div>
 
