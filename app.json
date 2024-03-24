@@ -4,12 +4,12 @@
     "slug": "WeatherWise",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/wwicon.png",
     "userInterfaceStyle": "light",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./assets/wwsplash.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#5A92F3"
     },
     "assetBundlePatterns": [
       "**/*"
@@ -19,12 +19,18 @@
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#ffffff"
-      }
+        "foregroundImage": "./assets/wwicon.png",
+        "backgroundColor": "#111"
+      },
+      "package": "com.swarthy958.WeatherWise"
     },
     "web": {
-      "favicon": "./assets/favicon.png"
+      "favicon": "./assets/wwicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "5efd037d-e9d2-43e3-85c8-b0a549484764"
+      }
     }
   }
 }
